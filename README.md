@@ -212,7 +212,7 @@ responses around without manipulating any of their attributes.
 
 Most of the work performed by a WSGI will be invisible in modern web application
 frameworks, but it is important to know that this is going on behind the scenes.
-Without WSGIs, servers and Python applications would have a very difficult time
+Without WSGIs, servers and Python applications would hagve a very difficult time
 communicating with one another. People might not be using Python for web
 development _at all_ without its popular WSGIs.
 
